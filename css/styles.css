@@ -1,0 +1,68 @@
+body{
+	background-color: #313131;
+	
+ 	
+}
+.bg1{
+	background-color: #bebebe;
+}
+#bg2{
+	background-color: #4e4e4e;
+}
+#hederwrap{
+	background: url(bbbg.jpg) no-repeat;
+	margin-top:-10px ;
+	padding-top: 20px;
+	text-align: center;
+	background-position: center center;
+	min-height: 800px;
+	width:100% ;
+	-webkit-bacground-size: cover;
+	-o-bacground-size: cover;
+	
+}
+#hederwrap h1{
+	margin-top: 75px;
+	color: white;
+	font-size: 60px;
+	font-weight: 300;
+	letter-spacing: 3px;
+
+}
+#hederwrap h2{
+	color: white;
+	font-size: 30px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	
+}
+#tex{
+
+	
+	padding-top: 10px;
+	
+	
+}
+.blog{
+	color: #e2e2e2 ;
+}
+
+
+#sel{
+  background-color: #f8f9fa;
+  padding: 6px 12px;
+  margin-bottom: 1.5rem;
+  border-radius: 4px;
+}
+
+
+
+
+
+
+
+	
+
+
+
+
